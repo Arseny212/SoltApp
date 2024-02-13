@@ -18,6 +18,13 @@ export default StyleSheet.create({
     flexGrow: 1,
     justifyContent: 'center',
   },
+  settingsButton: {
+      position: 'absolute',
+      bottom: 5,
+      left: 50,
+      borderRadius: 2,
+      padding: 10,
+  },
   content: {
     padding: 15,
     alignItems: 'center',

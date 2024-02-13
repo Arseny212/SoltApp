@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 const BarScreen = () => {
   return (
     <View style={styles.container}>
-      <Text>Экран Меню</Text>
+      <Text>Экран Кухни</Text>
     </View>
   );
 };
